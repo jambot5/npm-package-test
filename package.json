@@ -1,0 +1,22 @@
+{
+  "name": "is-jam",
+  "version": "1.0.0",
+  "description": "is the string JAM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jambot5/npm-package-test.git"
+  },
+  "keywords": [
+    "jam"
+  ],
+  "author": "test",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jambot5/npm-package-test/issues"
+  },
+  "homepage": "https://github.com/jambot5/npm-package-test#readme"
+}
