@@ -1,10 +1,10 @@
 {
   "name": "@jambot5/is-jam",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "is the string JAM",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
