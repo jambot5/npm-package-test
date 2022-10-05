@@ -1,5 +1,5 @@
 {
-  "name": "is-jam",
+  "name": "@jambot5/is-jam",
   "version": "1.0.0",
   "description": "is the string JAM",
   "main": "index.js",
